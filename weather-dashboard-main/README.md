@@ -1,19 +1,10 @@
 # Weather Dashboard
 
-![languages](https://img.shields.io/github/languages/count/jxhnkndl/weather-dashboard?style=plastic)
-![html](https://img.shields.io/github/languages/top/jxhnkndl/weather-dashboard?style=plastic)
-![commit](https://img.shields.io/github/last-commit/jxhnkndl/weather-dashboard?style=plastic)
-
-
 ## Table of Contents
 * [Deployed Application](#deployed-application)
 * [Description](#description)
 * [Technologies](#technologies)
 * [Features](#features)
-* [Application Demo](#live-demo)
-* [License](#license)
-* [Contact](#contact)
-
 
 ## Deployed Application
 Weather Dashboard is live at the link below:
@@ -25,7 +16,6 @@ Weather Dashboard is live at the link below:
 
 Weather Dashboard is a simple browser-based weather application. Users can search for a city's current weather conditions, current UV-index, and five-day forecast. Previously searched cities can be quickly recalled from a search history list located below the input field. 
 
-
 ## Technologies
 * HTML
 * CSS
@@ -35,8 +25,6 @@ Weather Dashboard is a simple browser-based weather application. Users can searc
 * AJAX
 * Day.js
 * OpenWeather API - [View Docs](https://openweathermap.org/api)
-
-
 ## Features
 
 * **Responsive UI:** The dashboard is designed to look sleek and simple across multiple breakpoints. On extra small devices, the application's search history collapses into a button allowing the user to toggle its visibility on and off.
@@ -54,18 +42,4 @@ Weather Dashboard is a simple browser-based weather application. Users can searc
 * **Load Weather Data for Last Searched City on Launch:** The application keeps the last searched city in local storage so that its current weather and forecast data can be re-requested and displayed when the application is launched.
 
 
-## Live Demo
-UI/UX demostration of the Weather Dashboard:
 
-![Application Preview](assets/weather-dashboard-demo.gif)
-
-
-## License
-Copyright (c) 2021 J.K. Royston  
-Licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
-
-## Contact
-J.K. Royston  
-<jkroyston@gmail.com>  
-[GitHub](https://www.github.com/jxhnkndl)
