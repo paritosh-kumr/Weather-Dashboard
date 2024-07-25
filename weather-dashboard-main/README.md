@@ -19,7 +19,7 @@
 ## Deployed Application
 Weather Dashboard is live at the link below:
 
-[Weather Dashboard - Live Demo](https://jxhnkndl.github.io/weather-dashboard)
+[Weather Dashboard - Live Demo](https://weather-updated.netlify.app/)
 
 
 ## Description
